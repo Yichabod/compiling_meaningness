@@ -4,6 +4,7 @@ This is a messy attempt to put all of `meaningness.com` into a single pdf for co
 
 In the meantime, feel free to add to this so more people can read David Chapman.
 
+`pictureless_meaningness.pdf` is the current scraped version of meaningness, sans images and table of contents, as of December 25th, 2022.
 
 ### Code notes
 
